@@ -13,6 +13,9 @@ dependencies = [
 [package.metadata]
 requires-dist = [{ name = "more-itertools", specifier = ">=11.2.1" }]
 
+[package.metadata.requires-dev]
+dev = []
+
 [[package]]
 name = "more-itertools"
 version = "11.2.1"
