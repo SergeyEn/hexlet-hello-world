@@ -1,0 +1,1 @@
+[![.github/workflows/print-helloworld.yml](https://github.com/SergeyEn/hexlet-hello-world/actions/workflows/print-helloworld.yml/badge.svg)](https://github.com/SergeyEn/hexlet-hello-world/actions/workflows/print-helloworld.yml)
