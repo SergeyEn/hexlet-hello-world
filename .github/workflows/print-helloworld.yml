@@ -1,0 +1,8 @@
+name: print-helloworld
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/SergeyEn
+      - run: make say-hello
