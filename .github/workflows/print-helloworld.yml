@@ -4,5 +4,5 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/SergeyEn
+      - uses: actions/checkout@v7
       - run: make say-hello
